@@ -1,4 +1,4 @@
-# プラグインについてaaaa
+# プラグインについてaaaabbbbb
 * CSVファイルをWordPressのデータベースにインポートする機能を提供するプラグイン。
 * WordPressの管理画面に「CSV Importer」というメニューを追加する。
 
